@@ -1,4 +1,3 @@
-from typing import Optional
 from fastapi import FastAPI
 
 from patient_name_extractor import API_VERSION
